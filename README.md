@@ -3,6 +3,16 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
+- 👀 I’m interested in Web Devlopment and Competitive Coding **.**
+
+- 📫 How to reach me: U can reach me on linkedin: **https://www.linkedin.com/in/mayank-kumar-619994152/**
+
+- 🌱 I’m currently learning web development **.**
+
+- 👯 I’m looking to collaborate on Open Source Projects **.**
+
+- 📧 Email: **kmayankroy1122@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mayank_kumar_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayank_kumar_21" height="30" width="40" /></a>
